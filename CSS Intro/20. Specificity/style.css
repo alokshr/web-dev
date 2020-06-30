@@ -1,0 +1,37 @@
+body {
+    background-image: url(https://www.fosi.org/media/images/Kahoot_full_logo_purple.original.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Order matters */
+
+
+#foo {
+    color: green;
+}
+
+[id="foo"] {
+    color: cyan;
+}
+
+h1, h2, h3, .class, #id {
+    color: #ffffff;
+    text-shadow: 3px 3px 5px dimgray;
+    line-height: 1rem;
+    font-family: sans-serif;
+}
+
+
+
+.border-img {
+    border: 10px dashed black;
+}
+
+ul li {
+    color: white;
+}
+
+ul > li {
+    color: yellow;
+}

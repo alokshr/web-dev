@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://www.fosi.org/media/images/Kahoot_full_logo_purple.original.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* 
+.container {
+    background: red; 
+    background: linear-gradient(to left, rgb(111, 182, 248), rgb(60, 158, 250));
+    box-shadow: 5px 5px 1px dimgray;
+} */
+
+h1 {
+    color: #ffffff;
+    text-shadow: 3px 3px 5px dimgray;
+}
+
+h2 {
+    color: rgb(4, 255, 25);
+    text-shadow: 1px 1px 10px black;
+    text-shadow: -1px -1px 10px black;
+}
+
+.border-img {
+    border: 10px dashed black;
+}

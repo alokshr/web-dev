@@ -1,0 +1,23 @@
+body {
+    background: pink;
+}
+
+h1 {
+    color: chartreuse;
+    text-align: center;
+}
+
+/*. selects elements by id*/
+
+.square {
+    width: 10em;
+    height: 10em;
+    background: blue;
+    margin: auto;
+}
+
+/*# selects elements by id*/
+#circle {
+    color: darkred;
+    font-size: 3em;
+}
